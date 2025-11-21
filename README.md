@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Walter 👋</h1>
-  <h3>Full-Stack Developer | Informatics Engineering Student</h3>
+  <h3>Full-Stack Developer | CS Student</h3>
 </div>
 
 <p align="center">
